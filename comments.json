@@ -1,7 +1,18 @@
-[{
-    "author": "Pete Hunt",
-    "text": "Hey there!"
-}, {
-    "author": "Paul O’Shannessy",
-    "text": "React is *great*!"
-}]
+[
+    {
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "author": "joe",
+        "text": "React is the future!"
+    },
+    {
+        "author": "joe",
+        "text": "this is cool seeing this work!"
+    }
+]
